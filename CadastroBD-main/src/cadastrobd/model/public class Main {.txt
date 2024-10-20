@@ -1,0 +1,7 @@
+public class Main {
+    public statc void main(String[] args) {
+        var name = "Lorena";
+        
+    }
+    
+}
